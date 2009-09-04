@@ -1,15 +1,10 @@
 MephistoWidont
 ==============
+A Widon't plugin for Mephisto.
 
-A Widon't plugin for the Mephisto blogging package based on an idea from Shaun Inman and a Rails helper provided by mucur.name (sorry, don't know the author's actual name).
+Based originally on an idea from Shaun Inman and a Rails helper provided by mucur.name (sorry, don't know the author's actual name).
 
 For more information on Widon't, see this post: http://shauninman.com/archive/2006/08/22/widont_wordpress_plugin
-
-INSTALLATION
-------------
-Install as you would any regular plugin:
-
-ruby script/install http://svn.wishingline.com/mephisto_widont
 
 
 USING THE PLUGIN
@@ -24,6 +19,6 @@ VERSION HISTORY
 0.1 - initial public release
 
 
-Copyright (c) Wishingline DS 2007 (where applicable), Licensed under an MIT licence. http://www.opensource.org/licenses/mit-license.php
+Copyright (c) Scott Boms 2007 (where applicable), Licensed under an MIT licence. http://www.opensource.org/licenses/mit-license.php
 
-Please leave any bugs or feedback at http://www.wishingline.com/contact
+Please leave any bugs or feedback at http://www.scottboms.com/contact/
